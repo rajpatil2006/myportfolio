@@ -208,7 +208,7 @@ export function ContactSection() {
                   <p className="font-mono text-xs uppercase text-muted-foreground">
                     Email
                   </p>
-                  <p className="font-mono text-primary">hello@johncyber.dev</p>
+                  <p className="font-mono text-primary">hello@rajpatil.dev</p>
                 </div>
               </motion.div>
 

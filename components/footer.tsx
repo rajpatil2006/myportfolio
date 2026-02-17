@@ -39,7 +39,7 @@ export function Footer() {
             >
               <Heart className="h-4 w-4 fill-neon-pink text-neon-pink" />
             </motion.div>
-            <span>by John Cyber</span>
+            <span>by Raj Patil</span>
             <span className="text-primary/50">|</span>
             <span>{new Date().getFullYear()}</span>
           </div>

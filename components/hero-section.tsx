@@ -95,19 +95,19 @@ export function HeroSection() {
           transition={{ duration: 0.8, delay: 0.2 }}
         >
           <span className="relative inline-block">
-            JOHN
+            RAJ
             <span
               className="absolute left-[2px] top-0 -z-10 text-neon-pink/50"
               aria-hidden="true"
             >
-              JOHN
+              RAJ
             </span>
           </span>{" "}
           <span
             className="text-primary"
             style={{ textShadow: "0 0 30px currentColor" }}
           >
-            CYBER
+            PATIL
           </span>
         </motion.h1>
 
